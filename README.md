@@ -2,6 +2,8 @@
 
 This project leverages Google Cloud technologies to create a robust and scalable IT support contact center solution. The proposed architecture utilizes Dialog Flow CX, Vertex AI, Generators, Cloud Run, and Cloud Functions to deliver an efficient and user-friendly experience for both IT support agents and end-users.
 
+![Website](image.png)
+
 ## Components
 
 - **Dialogflow CX**: A conversational AI platform that handles user inquiries through a virtual agent. Users can interact with the virtual agent via text or voice, allowing for a natural and efficient support experience.
